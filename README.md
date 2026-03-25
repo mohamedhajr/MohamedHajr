@@ -1,14 +1,12 @@
-# 👨🏽‍💻 Jack of all trades, specialist in some
+# 👨🏽‍💻 Generalist by nature, specialist where it counts
 
 ## What I’m Building
 
-An AI-native product ecosystem designed around speed, clarity, and execution.
+I’m building an AI-native product ecosystem around speed, clarity, and execution.
 
-My work is centered on one idea:
+> Build software that reduces friction between thought and action.
 
-> Build software that helps people think more clearly, move faster, and turn ideas into reality with less friction.
-
-### Keez
+### [Keez](https://keez.ai)
 
 A second-brain AI agent for faster execution, automatic organization, and low-friction maintenance.
 
