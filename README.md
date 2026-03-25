@@ -2,10 +2,9 @@
 
 Building an AI-native product ecosystem around speed, clarity, and execution to reduce friction between thought and action.
 
-### [Keez](https://keez.ai)
+### [Keez](https://keez.ai) : a second-brain AI native app for faster execution, automatic life managment, and low-friction maintenance.
 
-A second-brain AI agent for faster execution, automatic organization, and low-friction maintenance.
-
+<br>
 <p>
   <a href="https://x.com/mohamedhajrx">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
