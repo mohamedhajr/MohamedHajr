@@ -1,10 +1,6 @@
 # 🧘🏽‍♂️ Generalist by nature, specialist where it counts
 
-## What I’m Building
-
-I’m building an AI-native product ecosystem around speed, clarity, and execution.
-
-> Build software that reduces friction between thought and action.
+Building an AI-native product ecosystem around speed, clarity, and execution to reduce friction between thought and action.
 
 ### [Keez](https://keez.ai)
 
