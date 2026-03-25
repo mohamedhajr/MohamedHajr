@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Generalist by nature, specialist where it counts
+# 🧘🏽‍♂️ Generalist by nature, specialist where it counts
 
 ## What I’m Building
 
