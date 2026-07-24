@@ -12,12 +12,12 @@ Building an AI-native product ecosystem to reduce friction between thought and a
   <a href="https://www.linkedin.com/in/mohamedhajr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/buildwithmh">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://hajr.io">
+  <!-- <a href="https://hajr.io">
     <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
