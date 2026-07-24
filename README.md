@@ -1,8 +1,8 @@
 # 🧘🏽‍♂️ Generalist by nature, specialist where it counts
 
-Building an AI-native product ecosystem around speed, clarity, and execution to reduce friction between thought and action.
+Building an AI-native product ecosystem to reduce friction between thought and action.
 
-### [Keez](https://keez.ai) : a second-brain AI native app for faster execution, automatic life managment, and low-friction maintenance.
+### [Tjati](https://tjati.com) : a second-brain AI assitant, manage your life by talking to it.
 
 <br>
 <p>
