@@ -2,7 +2,7 @@
 
 Building an AI-native product ecosystem to reduce friction between thought and action.
 
-### [Tjati](https://tjati.com) : a productivity/Life OS AI assitant. Manage your life by talking to it.
+### [Tjati](https://tjati.com) : Productivity AI assitant. Manage your life by talking to it.
 
 <br>
 <p>
